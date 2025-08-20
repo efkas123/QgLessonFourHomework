@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LessonFourHomework" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-20T11:26:18.971Z" hostname="FILIPPDESKTOP" time="7.737">
+  <properties/>
+  <testcase name="githubWikiNavigation()" classname="LessonFourHomework" time="7.737"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+авг. 20, 2025 2:26:19 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 139, returning the closest version; found: 138; Please update to a Selenium version that supports CDP version 139
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide 7.9.4 / Selenium 4.34.0 / chrome 139.0.7258.67 windows
+[Test worker] INFO com.codeborne.selenide.WebDriverThreadLocalContainer - Browser will stay open due to holdBrowserOpen=true: 1 -> ChromeDriver: chrome on windows (a551d9b11c18baa4846d98811fceb4b5)
+]]></system-err>
+</testsuite>
